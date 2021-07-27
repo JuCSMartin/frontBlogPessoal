@@ -9,16 +9,16 @@ ul.social-network li {
     padding: 5px;
 }
 
-.fa {
+.fab {
     font-size: 35pt;
     color: white;
     padding: 10px;
 }
 
 .fa-linkedin-in:hover {
-    color: blue;
+    color: #0e76a8;
 }
 
 .fa-github:hover {
-    color: blue;
+    color: #171515;
 }
