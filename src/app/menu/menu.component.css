@@ -6,3 +6,13 @@ a {
     cursor: pointer;
     text-decoration: none;
 }
+
+.navbar {
+    position: absolute;
+    width: 100%;
+}
+
+.bg-sienna {
+    background-color: #8747417e;
+
+}
